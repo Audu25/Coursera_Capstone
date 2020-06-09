@@ -1,2 +1,3 @@
 # Coursera_Capstone
-This Capstone_project is about the Battle of Neighbourhoods
+This Capstone_project is about the Battle of Neighbourhoods in lagos Nigeria
+
